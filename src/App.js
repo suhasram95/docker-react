@@ -10,7 +10,7 @@ function App() {
         <p>
 	  Hello, Darkness! my old friend.
           Edit <code>src/App.js</code> and all falls down.
-	  Drep for Xpi-di-ya!!
+	  Drep Xpi-di-ya!!
         </p>
         <a
           className="App-link"
